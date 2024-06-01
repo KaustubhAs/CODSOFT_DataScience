@@ -1,4 +1,4 @@
-# CODSOFT_DataScience
+# Basic ML Projects
 
 Sales Prediction :-                                                                                                                                                 Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account advertising platform selection.
 
